@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "github.copilot-chat",
+        "ms-vscode.live-server",
+        "ms-edgedevtools.vscode-edge-devtools",
+        "bengreenier.vscode-node-readme",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "github.codespaces"
+    ]
+}
